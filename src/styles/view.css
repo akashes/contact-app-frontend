@@ -1,0 +1,13 @@
+.dark .viewCard{
+    background-color: gray;
+    color: white;
+}
+.dark .viewImage{
+    display: none;
+}
+.dark .viewRow{
+    background-color: black;
+}
+.dark .viewContainer{
+    background-color: black;
+}

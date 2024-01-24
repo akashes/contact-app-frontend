@@ -1,0 +1,11 @@
+.dark .contact-card{
+    background-color: black;
+    color: white;
+    border: 1px solid green;
+}
+.contact-card{
+    transition: .3s all;
+}
+.contact-card:hover{
+    transform: scale(1.02);
+}
